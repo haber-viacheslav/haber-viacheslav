@@ -4,7 +4,17 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=haber-viacheslav&theme=transparent)](https://git.io/streak-stats)
 ###
 [![codewars](https://www.codewars.com/users/jokercs/badges/large)](https://www.codewars.com/users/jokercs)  
-“<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=haber-viacheslav&label=Profile%20views&color=0e75b6&style=flat” alt=“haber-viacheslav” /> </p>”
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haber-viacheslav&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haber-viacheslav&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haber-viacheslav&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haber-viacheslav&theme=github_dark)
+
+
 <!--
 **haber-viacheslav/haber-viacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
