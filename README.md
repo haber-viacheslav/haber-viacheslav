@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Viacheslav Haber. I'm a Front-end developer.
+### Hi there 👋 My name is Viacheslav Haber. I'm a Fullstack developer.
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=haber-viacheslav&theme=transparent)](https://git.io/streak-stats)
