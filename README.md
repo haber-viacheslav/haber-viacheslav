@@ -3,6 +3,7 @@
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=haber-viacheslav&theme=transparent)](https://git.io/streak-stats)
 ###
+[![](https://visitcount.itsvg.in/api?id=haber-viacheslav&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 [![codewars](https://www.codewars.com/users/jokercs/badges/large)](https://www.codewars.com/users/jokercs)  
 
 
