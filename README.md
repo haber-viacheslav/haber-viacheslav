@@ -3,7 +3,8 @@
 ###
 
 ###
-[![visitors](https://visitcount.itsvg.in/api?id=haber-viacheslav&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![Haber Viacheslav profile views](https://u8views.com/api/v1/github/profiles/13776633/views/day-week-month-total-count.svg)](https://u8views.com/github/haber-viacheslav)
+###
 [![codewars](https://www.codewars.com/users/jokercs/badges/large)](https://www.codewars.com/users/jokercs)  
 
 
